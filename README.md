@@ -95,10 +95,6 @@ python plot_pid.py
 
 ## Author
 
-Ruchira Karle
-MS Computer Science — Northeastern University
-linkedin.com/in/ruchira-karle
-
 **Ruchira Karle**  
 MS Computer Science — Northeastern University  
 [linkedin.com/in/ruchira-karle](https://linkedin.com/in/ruchira-karle)
